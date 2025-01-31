@@ -39,6 +39,22 @@
       "type": "outcome",
       "createdAt": "2025-01-31T14:18:29.054Z",
       "id": 5
+    },
+    {
+      "description": "Limão",
+      "price": 3,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2025-01-31T16:03:24.364Z",
+      "id": 6
+    },
+    {
+      "description": "Laranja",
+      "price": 4,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2025-01-31T16:03:43.586Z",
+      "id": 7
     }
   ]
 }
